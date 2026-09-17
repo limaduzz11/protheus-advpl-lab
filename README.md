@@ -26,12 +26,6 @@ Structured financial report using TReport with grouping and totals.
 
 `ADVPL` `TOTVS Protheus` `TReport` `SX5` `PE`
 
-## Quick Start
-
-1. Copy `.prw` files to your Protheus environment
-2. Compile via TDS or Protheus IDE
-3. Configure point-of-entry (PE) in SX2 if applicable
-
 ## License
 
 MIT
